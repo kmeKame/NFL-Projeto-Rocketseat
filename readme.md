@@ -12,4 +12,4 @@ Projeto construído no evento Next Level Week da Rocketseat
 - Git e GitHub
 
 ## Contato
-elvisoliveira978@gmail.com
+gomesolive978@gmail.com
