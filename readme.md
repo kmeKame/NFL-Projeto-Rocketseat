@@ -1,7 +1,5 @@
 # Projeto NFL - Trilha Explorer
 
-![preview](main/NFL-Projeto-Rocketseat/preview.png)
-
 Projeto construído no evento Next Level Week da Rocketseat
 
 ### [Clique aqui e acesse o projeto](https://sr-kme.github.io/Projeto-NFL/)
