@@ -9,5 +9,9 @@ Projeto construído no evento Next Level Week da Rocketseat
 - CSS
 - Git e GitHub
 
+## Preview:
+![image](https://github.com/kmeKame/NFL-Projeto-Rocketseat/assets/68630209/3bfb0dd6-cc46-48af-ae46-b7d193dc7126)
+
+
 ## Contato
 gomesolive978@gmail.com
